@@ -22,7 +22,7 @@ Ved spillets start kan du vælge mellem 5 forskellige sværhedsgrader der bestem
 </div>
 </details>
 
-Den nemmeste måde at få en idé om opgaven er selv at spille spillet - du kan hente [en kompileret version i vendespil.zip](https://github.com/devcronberg/os-cs-consolevendespil/releases/latest) eller blot afvikle projektet i VS ved at clone hele repository'et.
+Den nemmeste måde at få en idé om opgaven er selv at spille spillet - du kan hente [en kompileret version i vendespil.zip](https://github.com/devcronberg/os-cs-consolevendespil/releases/latest) (pak ud til en mappe og kør startspil.bat på Windows) eller blot afvikle projektet i VS ved at clone hele repository'et.
 
 ## Opgave
 
