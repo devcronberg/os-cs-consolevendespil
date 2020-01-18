@@ -1,7 +1,7 @@
 # Udvidet C#-opgave: Vendespil
 
-I denne opgave skal du skabe et klassisk vendespil til afvikling på konsol. Det kunne se nogenlunde således ud:
+I denne opgave skal du skabe et klassisk vendespil til afvikling pÃ¥ konsol. Det kunne se nogenlunde sÃ¥ledes ud:
 
-![](pic1.png)
-![](pic2.png)
-![](pic3.png)
+![](billeder/pic1.png)
+![](billeder/pic2.png)
+![](billeder/pic3.png)
