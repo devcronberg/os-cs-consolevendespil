@@ -4,7 +4,7 @@ I denne opgave skal du skabe et klassisk vendespil til afvikling på konsol. Det
 
 <table>
   <tr>
-    <td><img src="Billeder/pic1.png" width="200" />
+    <td><img src="Billeder/pic1.png" width="400" />
   </tr>
   </table>
 
