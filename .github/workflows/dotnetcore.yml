@@ -15,7 +15,7 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 2.2.108
+        dotnet-version: 3.1.108
     - name: Build with dotnet
       run: dotnet build ConsoleVendespil.sln --configuration Release 
     - name: Create Release
@@ -29,7 +29,7 @@ jobs:
         draft: false
         prerelease: false            
     - name: Zip
-      run: zip -j ConsoleVendespil.zip ./ConsoleVendespil/bin/Release/netcoreapp2.2/*.* 
+      run: zip -j ConsoleVendespil.zip ./ConsoleVendespil/bin/Release/netcoreapp3.1/*.* 
     - name: Upload Release Asset
       id: upload-release-asset 
       uses: actions/upload-release-asset@v1.0.1
